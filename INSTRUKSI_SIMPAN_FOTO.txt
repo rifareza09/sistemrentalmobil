@@ -1,0 +1,76 @@
+┌─────────────────────────────────────────────────────────────┐
+│  🚗 INSTRUKSI CEPAT - SIMPAN 11 FOTO MOBIL MEWAH           │
+└─────────────────────────────────────────────────────────────┘
+
+⚠️  PENTING - INI SOLUSI FOTO TIDAK MUNCUL DI WEBSITE!
+
+📍 FOLDER TUJUAN (HARUS DISINI):
+   C:\laragon\www\Sistem informasi rental mobil\admin\img\vehicleimages\
+
+
+📸 CARA SIMPAN FOTO DARI CHAT:
+
+1. Klik kanan pada SETIAP FOTO di chat
+2. Pilih "Save Image As..." atau "Simpan Gambar Sebagai..."
+3. Navigate ke folder: vehicleimages (alamat di atas)
+4. Rename file sesuai urutan di bawah
+5. Klik Save
+
+
+📋 DAFTAR 11 FOTO & NAMA FILE:
+
+┌──────┬────────────────────────────┬──────────────────────────────┐
+│ No   │ Nama File                  │ Deskripsi Foto               │
+├──────┼────────────────────────────┼──────────────────────────────┤
+│  1   │ porsche-911-1.jpg          │ Porsche 911 hitam            │
+│  2   │ porsche-cayman-1.jpg       │ Porsche Cayman putih         │
+│  3   │ porsche-918-1.jpg          │ Porsche 918 abu metalik      │
+│  4   │ lamborghini-aventador-1.jpg│ Lamborghini gold/coklat      │
+│  5   │ lamborghini-veneno-1.jpg   │ Lamborghini hijau/hitam      │
+│  6   │ lamborghini-huracan-1.jpg  │ Lamborghini Huracan hijau    │
+│  7   │ mclaren-senna-1.jpg        │ McLaren Senna biru abu       │
+│  8   │ mclaren-720s-1.jpg         │ McLaren 720S hijau           │
+│  9   │ mclaren-720s-2.jpg         │ McLaren 720S orange          │
+│ 10   │ bmw-m3-1.jpg               │ BMW M3 biru tua              │
+│ 11   │ nissan-gtr-1.jpg           │ Nissan GT-R silver/abu       │
+└──────┴────────────────────────────┴──────────────────────────────┘
+
+
+⚠️  PENTING - NAMA FILE HARUS PERSIS SAMA!
+    - Huruf kecil semua (lowercase)
+    - Pakai tanda minus (-), bukan underscore (_)
+    - Extension .jpg (bukan .jpeg atau .png)
+
+
+✅ SETELAH SEMUA FOTO TERSIMPAN:
+
+1. Buka folder vehicleimages
+2. Pastikan ada 11 file baru
+3. Lanjut ke STEP 2: Jalankan SQL Script
+4. Buka file: INSERT_MOBIL_MEWAH_LENGKAP.sql
+
+
+📌 URUTAN FOTO DI CHAT (dari atas ke bawah):
+
+Foto 1  → porsche-911-1.jpg
+Foto 2  → porsche-cayman-1.jpg  
+Foto 3  → porsche-918-1.jpg
+Foto 4  → lamborghini-aventador-1.jpg
+Foto 5  → lamborghini-veneno-1.jpg
+Foto 6  → mclaren-senna-1.jpg
+Foto 7  → mclaren-720s-1.jpg
+Foto 8  → mclaren-720s-2.jpg
+Foto 9  → lamborghini-huracan-1.jpg
+Foto 10 → bmw-m3-1.jpg
+Foto 11 → nissan-gtr-1.jpg
+
+
+🎯 TIPS:
+- Download satu per satu agar tidak tertukar
+- Gunakan View Large Image untuk kualitas terbaik
+- Jika nama file panjang, langsung rename setelah download
+
+
+═══════════════════════════════════════════════════════════════
+ Setelah selesai, lanjut baca: PANDUAN_INSTALASI_MOBIL_MEWAH.md
+═══════════════════════════════════════════════════════════════
